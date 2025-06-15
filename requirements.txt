@@ -1,0 +1,8 @@
+streamlit
+ffmpeg-python
+pydub
+SpeechRecognition
+deep-translator
+gtts
+numpy
+requests
