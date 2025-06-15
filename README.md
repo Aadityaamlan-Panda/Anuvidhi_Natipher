@@ -7,7 +7,7 @@ It extracts audio from a video, transcribes the speech, translates it, generates
 
 ---
 ## 🌐 Live App
-The fully streamlit deployed version can be accessed [here](https://anuvidhinatipher-cpbczhdprr2pzuglzzcmwp.streamlit.app/)
+The streamlit deployed webapp can be accessed [here](https://anuvidhinatipher-cpbczhdprr2pzuglzzcmwp.streamlit.app/)
 
 ---
 ## 🚀 Features
