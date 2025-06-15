@@ -99,8 +99,7 @@ It extracts audio from a video, transcribes the speech, translates it, generates
 
 ## 📄 License
 
-[MIT License](LICENSE)  
-*(Or your chosen license)*
+[MIT License](LICENSE)
 
 ---
 
