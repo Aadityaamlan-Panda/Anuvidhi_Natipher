@@ -6,7 +6,10 @@ The name _"Anuvidhi"_ comes from three words namely _Anuvaad_, video and _Vidhi_
 It extracts audio from a video, transcribes the speech, translates it, generates dubbed speech in the target language, and merges the new audio back into the video. Subtitles (SRT) are also generated.
 
 ---
+## 🌐 Live App
+[Open Anuvidhi Natipher](https://anuvidhinatipher-cpbczhdprr2pzuglzzcmwp.streamlit.app/)
 
+---
 ## 🚀 Features
 
 - **Upload a video** (`.mp4`, `.mov`, `.avi`)
