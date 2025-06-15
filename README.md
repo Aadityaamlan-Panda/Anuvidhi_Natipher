@@ -1,6 +1,4 @@
----
-
-##🎬 Anuvidhi Natipher
+## 🎬 Anuvidhi Natipher
 
 **Anuvidhi Natipher** is a Streamlit-powered web app for automatic video translation and dubbing into multiple Indian and world languages.  
 It extracts audio from a video, transcribes the speech, translates it, generates dubbed speech in the target language, and merges the new audio back into the video. Subtitles (SRT) are also generated.
